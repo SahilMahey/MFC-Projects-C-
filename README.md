@@ -1,7 +1,7 @@
 # MFC-Projects-C-
 This repository contains the projects created by me with the help of MFC library of C++.
 
-I have created this project through the help of Youtube Videos. This project helps to draw circle and rectange with the help og meu options. It also contains the functionality of disable button meaning, if you select rectangle button, it will get disable so to avoid repeated selection.
+I have created this project through the help of Youtube Videos. This project helps to draw circle and rectange with the help of menu options. It also contains the functionality of disable button meaning, if you select rectangle button, it will get disable so to avoid repeated selection.
 
 
 For Visual Studio:-
